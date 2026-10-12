@@ -30,26 +30,13 @@ Je m'intéresse à tout ce qui rend les systèmes d'IA **fiables, observables et
 LangChain, LangGraph, MCP, CrewAI, Google ADK, OCR, FastAPI
 
 ### 🔭 Observabilité & MLOps
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+LangSmith, Langfuse, Docker, GitHub Actions, Terraform
 
 ### ☁️ Cloud & Plateformes Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Fabric-117865?style=for-the-badge&logo=microsoft&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)
+AWS, GCP, Microsoft Fabric, Databricks, Dataiku
 
 ### 📈 Data Science & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+Python, Pandas, NumPy, PyTorch, scikit-learn, TensorFlow
 
 ---
 
