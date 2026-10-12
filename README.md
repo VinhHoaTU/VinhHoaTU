@@ -63,10 +63,9 @@ Je m'intéresse à tout ce qui rend les systèmes d'IA **fiables, observables et
 
 | Projet | Description |
 |---|---|
+| [**AI-Digital-Twin**](https://github.com/VinhHoaTU/AI-Digital-Twin) | Jumeau numérique IA de moi-même : un agent conversationnel qui me représente, avec un backend, un frontend et une infrastructure déployée via Terraform et GitHub Actions |
 | [**pubmed_agent**](https://github.com/VinhHoaTU/pubmed_agent) | Agent IA qui recherche des articles sur PubMed et envoie une notification quotidienne |
-| [**AI_agent_recherche_emploi**](https://github.com/VinhHoaTU/AI_agent_recherche_emploi) | Agent IA d'aide à la recherche d'emploi |
-| [**crew_AI_engineering_team**](https://github.com/VinhHoaTU/crew_AI_engineering_team) | Équipe multi-agents CrewAI simulant une équipe d'ingénierie logicielle |
-
+| [**Rag_assistant_entreprise**](https://github.com/VinhHoaTU/Rag_assistant_entreprise) | Assistant RAG pour répondre aux questions RH d'une entreprise (Insurellm) |
 ---
 
 ## 📫 Me contacter
