@@ -72,7 +72,7 @@ Je m'intéresse à tout ce qui rend les systèmes d'IA **fiables, observables et
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinh-hoa-tu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tuvinhhoa192@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tuvinhhoa192@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>💡 Toujours curieux d'échanger sur les LLM, les agents et la mise en production de l'IA.</i></p>
