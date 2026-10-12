@@ -73,7 +73,6 @@ Je m'intéresse à tout ce qui rend les systèmes d'IA **fiables, observables et
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VinhHoaTU&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhHoaTU&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -82,8 +81,8 @@ Je m'intéresse à tout ce qui rend les systèmes d'IA **fiables, observables et
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ton.email@exemple.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vinh-hoa-tu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="tuvinhhoa192@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>💡 Toujours curieux d'échanger sur les LLM, les agents et la mise en production de l'IA.</i></p>
