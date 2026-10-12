@@ -27,7 +27,7 @@ Je m'intéresse à tout ce qui rend les systèmes d'IA **fiables, observables et
 ## 🛠️ Stack technique
 
 ### 🧠 LLM & Agents
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain]
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge)
