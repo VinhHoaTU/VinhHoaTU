@@ -70,14 +70,6 @@ Je m'intéresse à tout ce qui rend les systèmes d'IA **fiables, observables et
 
 ---
 
-## 📊 Stats GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinhHoaTU&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Me contacter
 
 <p align="center">
