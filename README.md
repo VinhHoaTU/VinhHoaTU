@@ -27,13 +27,7 @@ Je m'intéresse à tout ce qui rend les systèmes d'IA **fiables, observables et
 ## 🛠️ Stack technique
 
 ### 🧠 LLM & Agents
-![LangChain]
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-555555?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+LangChain, LangGraph, MCP, CrewAI, Google ADK, OCR, FastAPI
 
 ### 🔭 Observabilité & MLOps
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
